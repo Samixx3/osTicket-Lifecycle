@@ -11,7 +11,7 @@ This tutorial demonstrates the process of creating tickets as an end user in the
 </p>
 <p>
 Kentucky is submitting a ticket regarding a Business Critical Outage due to customer reports that they cannot access mobile banking.
-By categorizing the ticket under Business Critical Outage, Jane ensures that the helpdesk prioritizes this issue due to its potential impact on customer access and service availability. This systematic approach helps facilitate quicker resolutions for critical problems.
+By categorizing the ticket under Business Critical Outage, ken ensures that the helpdesk prioritizes this issue due to its potential impact on customer access and service availability. This systematic approach helps facilitate quicker resolutions for critical problems.
   
 </p>
 <img src="https://i.imgur.com/lRduIb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
